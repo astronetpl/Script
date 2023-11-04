@@ -1,0 +1,1 @@
+ document.querySelector("section.post-tags").outerHTML='<span id="pytanie_blad">Znalazłeś błąd? Masz pytanie?</span><p id="pytanie_blad_p">Napisz do nas na <b>redakcja@astronet.pl</b> lub przy pomocy <a href="https://astronet.pl/kontakt/">formularza</a>.</p>'+document.querySelector("section.post-tags").outerHTML;
